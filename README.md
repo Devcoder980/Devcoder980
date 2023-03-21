@@ -40,5 +40,5 @@ You can click the Preview link to take a look at your changes.
         &nbsp; <img src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" alt="tailwind" width="70" height="50" />
         &nbsp; <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="tailwind" width="90" height="70" />
  
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devcoder980&show_icons=true&locale=en" alt="devcoder980" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devcoder980" alt="devcoder980" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devcoder980&" alt="devcoder980" /></p>
